@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "ordercarse",
+        "uuid": 558076,
+        "checksum": "du4n9d"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
